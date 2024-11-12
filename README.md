@@ -50,8 +50,8 @@ Through this project, I gained hands-on experience in:
 5. **Executive Summary**: Get a snapshot of the company’s overall performance and key trends over the year.
 
 ## 📂 Resources
-- **Interactive Dashboard**: [🔗 View the Power BI dashboard](https://lnkd.in/d37WKqGk)
-- **GitHub Repository**: [🔗 Access the code here](https://lnkd.in/dJPrfFbh)
+- **Interactive Dashboard**: [🔗 View the Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWQwMWM5ZGMtNzZhMC00Y2FhLTk5NjEtNjU2YzBhMThmMmRlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- **GitHub Repository**: [🔗 Access the code here](https://github.com/aiprasadk/-Business-Intelligence-360-)
 
 ## 🙏 Acknowledgments
 Special thanks to **Dhaval Patel**, **Hemanand Vadivel**, and the **Codebasics** team for their support and mentorship throughout this project.
