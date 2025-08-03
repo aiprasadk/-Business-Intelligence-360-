@@ -1,4 +1,5 @@
-![Uploading BI360_Thumbnail.png…]()
+<img width="1280" height="720" alt="BI360_Thumbnail" src="https://github.com/user-attachments/assets/15568558-749c-4b85-8f0c-5543180024e9" />
+
 # 🚀 Business Intelligence 360
 
 ## 📄 Overview
