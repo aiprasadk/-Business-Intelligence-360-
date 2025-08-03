@@ -1,3 +1,4 @@
+![Uploading BI360_Thumbnail.png…]()
 # 🚀 Business Intelligence 360
 
 ## 📄 Overview
