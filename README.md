@@ -1,3 +1,4 @@
+![Business Intelligence 360_thumbnail]https://github.com/aiprasadk/-Business-Intelligence-360-/blob/main/Thumbnail/BI360_Thumbnail.png
 # 🚀 Business Intelligence 360
 
 ## 📄 Overview
